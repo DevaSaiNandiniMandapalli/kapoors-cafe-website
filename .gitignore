@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+
+# Build output & archives
+dist/
+build/
+*.zip
+
+# OS & editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Logs & temp
+*.log
+*.tmp
+.agent_tmp/
