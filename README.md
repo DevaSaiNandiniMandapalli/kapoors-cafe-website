@@ -8,11 +8,9 @@ A premium, fully responsive **demonstration website concept** for **Kapoor's Caf
 
 ## Website Preview
 
-**Live preview:** _Add the Vercel URL here after deployment._
+🔗 **Live site:** [https://kapoors-cafe-website.vercel.app](https://kapoors-cafe-website.vercel.app)
 
-```
-https://kapoors-cafe-website.vercel.app
-```
+Deployed as a static site on **Vercel**. Open the link on any device — desktop, tablet or mobile.
 
 ---
 
@@ -111,7 +109,7 @@ Then visit **http://localhost:8000**.
    - **Build Command:** _(leave empty)_
    - **Output Directory:** _(leave empty / root)_
 5. Click **Deploy**. Vercel serves `index.html` directly as a static site.
-6. Copy the generated URL into the **Website Preview** section above.
+6. Update the **Website Preview** link above with the generated URL.
 
 ---
 
@@ -130,7 +128,7 @@ Then visit **http://localhost:8000**.
 - **Location:** HITEC City, Hyderabad, Telangana, India
 - **Cuisine:** Punjabi & North Indian
 - **Type:** Demonstration / portfolio website concept
-- **Status:** Completed design; awaiting Vercel deployment
+- **Status:** Completed design — live on Vercel
 
 ---
 
